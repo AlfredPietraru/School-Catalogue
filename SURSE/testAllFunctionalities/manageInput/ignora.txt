@@ -1,0 +1,55 @@
+student Alannah Lam parent Michaela Lam parent Christian Lam
+student Ana-Maria Popescu parent Ioana Popescu parent Marcel Popescu
+student Kye Branch parent Anna Branch parent Michaela Branch
+student Aamir Wiggins parent FirstNameMother1 LastNameMother2 parent FirsNameFather1 LastNameFather2
+student Francesco Hatfield parent Adina Hatfield parent Jordan Hatfield
+student Emmanuel Stone parent Emy Stone parent Laurent Stone
+student Sana Martinez parent Ceciliea Martinez parent Francois Martinez
+student Saad Everett parent FirstNameMother1 Everett parent FirsNameFather1 Everett
+student Hermione Ayers parent FirstNameMother2 Ayers parent FirsNameFather2 Ayers
+student Alia Bauer parent FirstNameMother3 Bauer parent FirsNameFather3 Bauer
+student Cara Marquez parent FirstNameMother4 Marquez parent FirsNameFather4 Marquez
+student Alexa Golden parent FirstNameMother5 Golden parent FirsNameFather5 Golden
+student Delores Mueller parent FirstNameMother6 Muller parent FirsNameFather6 Muller
+student Erica Vang parent FirstNameMother7 Vang parent FirsNameFather7 Vang
+student Christopher Spence parent FirstNameMother8 Spence parent FirsNameFather8 Spence
+student Kira Haley parent FirstNameMother9 Haley parent FirsNameFather9 Haley
+student Monica O'Moore parent Mommy1 O'Moore parent Daddy1  O'Moore
+student Ehsan Shannon parent Mommy2 Shannon parent Daddy2 Shannon
+student Liyana Harris parent Mommy3 Harris parent Daddy3 Harris
+student Lawson Jacobs parent Mommy4 Jacobs parent Daddy4 Jacobs
+student Howard Austin parent Mommy5 Austin parent Daddy5 Austin
+student Nannie Gordon parent Mommy6 Gordon parent Daddy6 Gordon
+student Henrietta Brock parent Mommy7 Brock parent Daddy7 Brock
+student Blanche Beard parent Mommy8 Beard parent Daddy8 Beard
+student Stanley Schaefer parent Mommy9 Vang Schaefer Daddy9 Schaefer
+student Bartosz Alexander parent FirstNameMother7 Alexander parent FirsNameFather7 Alexander
+student Frank Andrews parent FirstNameMother7 Andrews parent FirsNameFather7 Andrews
+student Shivam Middleton parent FirstNameMother7 Middleton parent FirsNameFather7 Middleton
+student Julie Page parent FirstNameMother7 Page parent FirsNameFather7 Page
+student Anne Mariot parent Michelle Mariot parent Antoine Mariot
+teacher Mihai Ionescu Algebra Machine_Learning Algorithm_Analysis ----
+teacher Radu Deaconescu Utilizarea_Sistemelor_de_Operare Operating_Systems ----
+teacher Mihnea Costoiu Mechanics Physics  ----
+teacher Alexandra Odubasteanu Object_Oriented_Programming Computer_Programming ----
+teacher Andreea Cristescu Analiza ----
+assistant Ioan Mircea 320CC Analiza ----
+assistant Mihai Badea 321CC Analiza ----
+assistant Cristian Zuzu 322CC Analiza ----
+assistant Alex Negrescu 323CC Analiza ----
+assistant Mircea Turcanu 320CC Algebra Machine_Learning Algorithm_Analysis ----
+assistant Razvan Burlacu 321CC Algebra Machine_Learning Algorithm_Analysis ----
+assistant Cristina Podovei 322CC Algebra Machine_Learning Algorithm_Analysis ----
+assistant Ana-Maria Spatariu 323CC Algebra Machine_Learning Algorithm_Analysis ----
+assistant Andra Cojusneanu 320CC Object_Oriented_Programming Computer_Programming ----
+assistant Ingrid Stochirlea 321CC Object_Oriented_Programming Computer_Programming ----
+assistant Mihai Cristescu 322CC Object_Oriented_Programming Computer_Programming ----
+assistant Diana Adumitracesei 323CC Object_Oriented_Programming Computer_Programming ----
+assistant Ioana Anghelus 320CC Mechanics Physics  ----
+assistant Sofia Petruc 321CC Mechanics Physics  ----
+assistant Mihaela Hunca 322CC Mechanics Physics  ----
+assistant Elena Mardare 323CC Mechanics Physics  ----
+assistant Mama Mare 320CC Utilizarea_Sistemelor_de_Operare Operating_Systems ----
+assistant Razvan Panzariu 321CC Utilizarea_Sistemelor_de_Operare Operating_Systems ----
+assistant Andreea Carpiuc 322CC Utilizarea_Sistemelor_de_Operare Operating_Systems ----
+assistant Mirela Ciucas  323CC Utilizarea_Sistemelor_de_Operare Operating_Systems ----
